@@ -123,3 +123,9 @@ The repository demonstrates a substantial academic-management UI and client-side
 Full-stack developer focused on frontend engineering, backend systems, APIs, automation, databases, and practical software architecture.
 
 **GitHub Repository:** https://github.com/Scarlet-Twinz/Result--management--system
+
+## Project Links
+
+- **Repository:** https://github.com/Scarlet-Twinz/Result--management--system
+- **Author:** Anthony Emmanuella Mmasinachi
+- **GitHub:** https://github.com/Scarlet-Twinz
