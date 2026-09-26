@@ -1,4 +1,4 @@
-# JPTS University Result Management System
+#  JPTS University Result Management System
 
 A browser-based academic result-management interface built for a university-focused workflow. The repository contains a large static frontend with role-specific dashboards, Firebase integration, academic management screens, and a second nested copy of the JPTS grade-system interface.
 
