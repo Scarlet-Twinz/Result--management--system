@@ -129,3 +129,8 @@ Full-stack developer focused on frontend engineering, backend systems, APIs, aut
 - **Repository:** https://github.com/Scarlet-Twinz/Result--management--system
 - **Author:** Anthony Emmanuella Mmasinachi
 - **GitHub:** https://github.com/Scarlet-Twinz
+## License
+
+MIT License.
+
+See [LICENSE](LICENSE) for the full license text.
